@@ -8,7 +8,7 @@ class AccommodationOptimizer
     @accommodations = [
       { room_type: 'Family', sleeps: 4, room_count: 1, price: 85 },
       { room_type: 'Double', sleeps: 2, room_count: 3, price: 50 },
-      { room_type: 'Single', sleeps: 1, room_count: 1, price: 30 }
+      { room_type: 'Single', sleeps: 1, room_count: 2, price: 30 }
     ]
   end
 
